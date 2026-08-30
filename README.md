@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T260
 ### Team Details
-#### **Team Name** Binary Brains <br/>
+#### **Team Name** -Binary Brains <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
