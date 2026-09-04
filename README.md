@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**26001
-* **Problem Statement Title:**AI-Based early warning and landslide Risk Monitoring System in NER
-* **Theme / Category:**Disaster Management
-* **Ministry / Organization:**, Ministry of Development of North Eastern Region (MDoNER)
+* **Problem Statement ID:**26196
+* **Problem Statement Title:**Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.
+* **Theme / Category:**	Fitness & Sports
+* **Ministry / Organization:**, AICTE
