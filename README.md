@@ -13,9 +13,9 @@
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |     Aditya Ajit Dubal                    | CB.EN.U4ELC26103                       |    Male             |     EEE/ELC/Btech                            |  
 |    Member 2     | Nishal V                        |  CB.EN.U4MEE26226                      |      Male           |    MEE/Btech                      |  
-|    Member 3     |      D Rithul Vaishnav                   |         CB.EN.U4ELC26109               |   Male              |                EEE/ELC/Btech                  |  
-|    Member 4     |         Karthik                |          CB.EN.U4ELC26108              |   Male              |                         EEE/ELC/Btech      |   
-|    Member 5     |       Akshaya                  |   CB.EN.U4ELC26104                     |         Female          |      EEE/ELC/Btech                               |  
+|    Member 3     |      D Rithull Vaishnav                   |         CB.EN.U4ELC26109               |   Male              |                EEE/ELC/Btech                  |  
+|    Member 4     |        Chundi Karthik                |          CB.EN.U4ELC26108              |   Male              |                         EEE/ELC/Btech      |   
+|    Member 5     |       Akshaya Surineni                 |   CB.EN.U4ELC26104                     |         Female          |      EEE/ELC/Btech                               |  
 |    Member 6     |             Abishree P.M             |           CB.EN.U4ELC26102             |     Female      |             EEE/ELC/Btech                        |   
 
 #### Mentor Details
