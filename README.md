@@ -41,4 +41,4 @@
 * **Problem Statement ID:**26196
 * **Problem Statement Title:**Student Innovation-Ideas that can boost fitness activities and assist in keeping fit.
 * **Theme / Category:**	Fitness & Sports
-* **Ministry / Organization:**, AICTE
+* **Ministry / Organization:** AICTE
