@@ -12,7 +12,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |     Aditya Ajit Dubal                    | CB.EN.U4ELC26103                       |    Male             |     EEE/ELC/Btech                            |  
-|    Member 2     | Nishal V                        |  CB.EN.U4MEE26226                      |      Male           |    Mechanical/Btech                      |  
+|    Member 2     | Nishal V                        |  CB.EN.U4MEE26226                      |      Male           |    MEE/Btech                      |  
 |    Member 3     |      D Rithul Vaishnav                   |         CB.EN.U4ELC26109               |   Male              |                EEE/ELC/Btech                  |  
 |    Member 4     |         Karthik                |          CB.EN.U4ELC26108              |   Male              |                         EEE/ELC/Btech      |   
 |    Member 5     |       Akshaya                  |   CB.EN.U4ELC26104                     |         Female          |      EEE/ELC/Btech                               |  
